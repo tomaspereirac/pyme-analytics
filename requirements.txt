@@ -1,1 +1,2 @@
-echo Django`ngunicorn > requirements.txt
+Django
+gunicorn
